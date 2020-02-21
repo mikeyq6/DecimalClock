@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalClock", "DecimalClock\DecimalClock.csproj", "{39B0369D-2BCB-495F-867A-4DB5DE5F4330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalClockLibrary", "DecimalClockLibrary\DecimalClockLibrary.csproj", "{0D9E8B13-7C18-42E9-A056-97C4B52B3506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalClock.Tests", "UnitTestProject1\DecimalClock.Tests.csproj", "{62B7204B-577A-44DC-9EC8-B38B880CEA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B0369D-2BCB-495F-867A-4DB5DE5F4330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B0369D-2BCB-495F-867A-4DB5DE5F4330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B0369D-2BCB-495F-867A-4DB5DE5F4330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B0369D-2BCB-495F-867A-4DB5DE5F4330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9E8B13-7C18-42E9-A056-97C4B52B3506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9E8B13-7C18-42E9-A056-97C4B52B3506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9E8B13-7C18-42E9-A056-97C4B52B3506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9E8B13-7C18-42E9-A056-97C4B52B3506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B7204B-577A-44DC-9EC8-B38B880CEA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B7204B-577A-44DC-9EC8-B38B880CEA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B7204B-577A-44DC-9EC8-B38B880CEA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B7204B-577A-44DC-9EC8-B38B880CEA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
